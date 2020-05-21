@@ -1,0 +1,12 @@
+C:\Users\patrick\Source\Repos\Video manager\bin\Debug\Video manager.exe.config
+C:\Users\patrick\Source\Repos\Video manager\bin\Debug\Video manager.exe
+C:\Users\patrick\Source\Repos\Video manager\bin\Debug\Video manager.pdb
+C:\Users\patrick\Source\Repos\Video manager\obj\Debug\Video manager.csprojAssemblyReference.cache
+C:\Users\patrick\Source\Repos\Video manager\obj\Debug\Video_manager.Properties.Resources.resources
+C:\Users\patrick\Source\Repos\Video manager\obj\Debug\Video manager.csproj.GenerateResource.cache
+C:\Users\patrick\Source\Repos\Video manager\obj\Debug\Video manager.csproj.CoreCompileInputs.cache
+C:\Users\patrick\Source\Repos\Video manager\obj\Debug\Video manager.exe
+C:\Users\patrick\Source\Repos\Video manager\obj\Debug\Video manager.pdb
+C:\Users\patrick\Source\Repos\Video manager\obj\Debug\Video_manager.frmMain.resources
+C:\Users\patrick\Source\Repos\Video manager\obj\Debug\Video_manager.frmSettings.resources
+C:\Users\patrick\Source\Repos\Video manager\obj\Debug\Video_manager.frmData.resources
